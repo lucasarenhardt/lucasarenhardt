@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Computer Engineering Student 💻<br>Universidade Tecnológica Federal do Paraná - UTFPR</p>
+<h4 align="left">Computer Engineering Student 💻<br>Universidade Tecnológica Federal do Paraná - UTFPR</p>
 
 ###
 
